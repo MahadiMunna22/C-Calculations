@@ -1,6 +1,7 @@
 # C#-Calculations
 
-#XIRR
+XIRR
+
 public class XIRR
 {
     public const double tol = 0.001;
